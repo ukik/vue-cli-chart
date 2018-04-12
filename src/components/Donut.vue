@@ -10,7 +10,6 @@
 <script>
   
   require("../nativescript-vue/chart-directives");
-  const Vue = require("nativescript-vue");
 
   export default {
     data() {
